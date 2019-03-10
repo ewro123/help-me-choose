@@ -25,12 +25,16 @@ button {
  border: black;
  color: white;
  padding: 10px 25px;
- margin-top: 10px;
- margin-bottom: 10px;
+ margin-top: 8px;
+ margin-bottom: 8px;
  text-align: center;
  text-decoration:none;
  display: inline-block;
  font-size: 14px;
+}
+
+body {
+  background-color: lightblue;
 }
 
 .inputs {

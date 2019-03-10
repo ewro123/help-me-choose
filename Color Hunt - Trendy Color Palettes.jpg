@@ -1,0 +1,773 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>Color Hunt - Trendy Color Palettes</title>
+<link rel="canonical" href="https://colorhunt.co/palette/140769">
+<meta name="theme-color" content="#263646">
+<meta charset="utf-8">
+<link rel="shortcut icon" href="https://colorhunt.co/img/favicon.gif">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="This is palette no. 140769 in Color Hunt's schemes collection. A hand-picked palette, free to use for designers and artists.">
+
+<meta property="og:title" content="Color Hunt - Trendy Color Palettes">
+<meta property="og:description" content="This is palette no. 140769 in Color Hunt's schemes collection. A hand-picked palette, free to use for designers and artists.">
+<meta property="og:image" content="https://colorhunt.co/img/color-hunt-palettes-og.png">
+<meta property="og:url" content="https://colorhunt.co/">
+<meta property="og:type" content="website">
+
+<meta name="twitter:title" content="Color Hunt - Trendy Color Palettes">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@colorhunters">
+<meta name="twitter:description" content="This is palette no. 140769 in Color Hunt's schemes collection. A hand-picked palette, free to use for designers and artists.">
+<meta name="twitter:image" content="https://colorhunt.co/img/color-hunt-palettes-og.png">
+<link href="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/style.css" rel="stylesheet" media="all">
+<link href="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/css.css" rel="stylesheet">
+<script src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/CK7DCK7E.json"></script></head>
+<body class="single">
+<script async="" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/analytics.js"></script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-37341238-3', 'auto');
+  ga('send', 'pageview');
+</script>
+<script src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/jquery-latest.js"></script>
+<script src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/functions.js"></script>
+<script async="" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/native.js"></script>
+<script async="" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/html2canvas.js"></script>
+<div id="header" class="soft_shadow">
+<div class="wrap">
+<a href="https://colorhunt.co/" id="logo">
+<img alt="Color Hunt Palettes Logo" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-logo.png">Color Hunt
+</a>
+<ol id="breadcrumbs">
+<li>
+<a href="https://colorhunt.co/palettes">Palettes</a>
+</li>
+<li style="display:none">
+<div id="sort">
+<span>New</span>
+<img alt="Color Hunt Palettes Dropdown Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon_dropdown.png">
+<div id="sort_menu" class="shadow block dropdown">
+<a data-button="new" class="button selected" href="https://colorhunt.co/palettes">New</a>
+<a data-button="trendy" class="button" href="https://colorhunt.co/palettes/trendy">Trendy</a>
+<a data-button="popular" class="button" href="https://colorhunt.co/palettes/popular">Popular</a>
+<a data-button="random" class="button" href="https://colorhunt.co/palettes/random">Random</a>
+</div>
+</div>
+</li>
+<li style="display:none">
+<a href="https://colorhunt.co/palettes/"> Color Palettes</a> </li>
+<li style="">
+<a href="https://colorhunt.co/palette/140769">Color Palette 140769</a> </li>
+</ol>
+<div id="menu">
+<span class="icon">•••</span>
+<div id="main_menu" class="shadow block dropdown">
+<a data-button="palettes" class="button selected" href="https://colorhunt.co/palettes">Palettes</a>
+<a data-button="create" class="button" href="https://colorhunt.co/create">Create</a>
+<a data-button="likes" class="button" href="https://colorhunt.co/likes">Likes</a>
+<div class="seperator"></div>
+<a data-button="about" class="button" href="https://colorhunt.co/about">About</a>
+<a data-button="instagram" rel="noreferrer" target="_blank" class="button" onclick="ga('send', 'event','instagram_menu_button', 'click');" href="https://instagram.com/color.hunt">Instagram</a>
+</div>
+</div>
+</div>
+</div>
+<div id="container" class="wrap">
+<div id="feed">
+<div class="item block shadow focus" data-order="0" data-id="140769" data-code="dbe9b7fdfdf6f4dadab8b2a6" style="animation-delay: 0ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(184, 178, 166);"><a></a><span onclick='copy("b8b2a6", this)'>#b8b2a6</span></div>
+<div class="place c3" style="background-color: rgb(244, 218, 218);"><a></a><span onclick='copy("f4dada", this)'>#f4dada</span></div>
+<div class="place c2" style="background-color: rgb(253, 253, 246);"><a></a><span onclick='copy("fdfdf6", this)'>#fdfdf6</span></div>
+<div class="place c1" style="background-color: rgb(219, 233, 183);"><a></a><span onclick='copy("dbe9b7", this)'>#dbe9b7</span></div>
+</div>
+<div class="like button" onclick='like(140769, "dbe9b7fdfdf6f4dadab8b2a6")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>167</span>
+</div>
+<span class="date">2 days</span>
+<div class="button light_button save_image" onclick="save_image()"><img src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/colorhunt-palettes-icon-save-image.png" width="16px">Image</div> <div class="button light_button copy_link" onclick="copy_link()"><img src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/colorhunt-palettes-icon-link.png" width="16px">Link</div> <div class="item_tags"><a href="https://colorhunt.co/palettes/green" onclick="ga('send', 'event','interaction', 'tag_click');">#green</a><a href="https://colorhunt.co/palettes/pink" onclick="ga('send', 'event','interaction', 'tag_click');">#pink</a><a href="https://colorhunt.co/palettes/bright" onclick="ga('send', 'event','interaction', 'tag_click');">#bright</a><a href="https://colorhunt.co/palettes/pastel" onclick="ga('send', 'event','interaction', 'tag_click');">#pastel</a><a href="https://colorhunt.co/palettes/spring" onclick="ga('send', 'event','interaction', 'tag_click');">#spring</a><a href="https://colorhunt.co/palettes/wedding" onclick="ga('send', 'event','interaction', 'tag_click');">#wedding</a></div><div class="tip" id="like_tip">Like this palette?</div></div><div class="item block shadow" data-order="0" data-id="140436" data-code="33313b62374e007880fdc57b" style="animation-delay: 0ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(253, 197, 123);"><a href="https://colorhunt.co/palette/140436"></a><span onclick='copy("fdc57b", this)'>#fdc57b</span></div>
+<div class="place c3" style="background-color: rgb(0, 120, 128);"><a href="https://colorhunt.co/palette/140436"></a><span onclick='copy("007880", this)'>#007880</span></div>
+<div class="place c2" style="background-color: rgb(98, 55, 78);"><a href="https://colorhunt.co/palette/140436"></a><span onclick='copy("62374e", this)'>#62374e</span></div>
+<div class="place c1" style="background-color: rgb(51, 49, 59);"><a href="https://colorhunt.co/palette/140436"></a><span onclick='copy("33313b", this)'>#33313b</span></div>
+</div>
+<div class="like button" onclick='like(140436, "33313b62374e007880fdc57b")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>38</span>
+</div>
+<span class="date">Today</span>
+</div><div class="item block shadow" data-order="1" data-id="140707" data-code="fcd3071c1259ee4266d5daeb" style="animation-delay: 50ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(213, 218, 235);"><a href="https://colorhunt.co/palette/140707"></a><span onclick='copy("d5daeb", this)'>#d5daeb</span></div>
+<div class="place c3" style="background-color: rgb(238, 66, 102);"><a href="https://colorhunt.co/palette/140707"></a><span onclick='copy("ee4266", this)'>#ee4266</span></div>
+<div class="place c2" style="background-color: rgb(28, 18, 89);"><a href="https://colorhunt.co/palette/140707"></a><span onclick='copy("1c1259", this)'>#1c1259</span></div>
+<div class="place c1" style="background-color: rgb(252, 211, 7);"><a href="https://colorhunt.co/palette/140707"></a><span onclick='copy("fcd307", this)'>#fcd307</span></div>
+</div>
+<div class="like button" onclick='like(140707, "fcd3071c1259ee4266d5daeb")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>103</span>
+</div>
+<span class="date">Yesterday</span>
+</div><div class="item block shadow" data-order="2" data-id="140769" data-code="dbe9b7fdfdf6f4dadab8b2a6" style="animation-delay: 100ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(184, 178, 166);"><a href="https://colorhunt.co/palette/140769"></a><span onclick='copy("b8b2a6", this)'>#b8b2a6</span></div>
+<div class="place c3" style="background-color: rgb(244, 218, 218);"><a href="https://colorhunt.co/palette/140769"></a><span onclick='copy("f4dada", this)'>#f4dada</span></div>
+<div class="place c2" style="background-color: rgb(253, 253, 246);"><a href="https://colorhunt.co/palette/140769"></a><span onclick='copy("fdfdf6", this)'>#fdfdf6</span></div>
+<div class="place c1" style="background-color: rgb(219, 233, 183);"><a href="https://colorhunt.co/palette/140769"></a><span onclick='copy("dbe9b7", this)'>#dbe9b7</span></div>
+</div>
+<div class="like button" onclick='like(140769, "dbe9b7fdfdf6f4dadab8b2a6")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>167</span>
+</div>
+<span class="date">2 days</span>
+</div><div class="item block shadow" data-order="3" data-id="141021" data-code="b7fbfffff6beffe0a3ffa1ac" style="animation-delay: 150ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(255, 161, 172);"><a href="https://colorhunt.co/palette/141021"></a><span onclick='copy("ffa1ac", this)'>#ffa1ac</span></div>
+<div class="place c3" style="background-color: rgb(255, 224, 163);"><a href="https://colorhunt.co/palette/141021"></a><span onclick='copy("ffe0a3", this)'>#ffe0a3</span></div>
+<div class="place c2" style="background-color: rgb(255, 246, 190);"><a href="https://colorhunt.co/palette/141021"></a><span onclick='copy("fff6be", this)'>#fff6be</span></div>
+<div class="place c1" style="background-color: rgb(183, 251, 255);"><a href="https://colorhunt.co/palette/141021"></a><span onclick='copy("b7fbff", this)'>#b7fbff</span></div>
+</div>
+<div class="like button" onclick='like(141021, "b7fbfffff6beffe0a3ffa1ac")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>249</span>
+</div>
+<span class="date">3 days</span>
+</div><div class="item block shadow" data-order="4" data-id="139632" data-code="421b9ba06ee1cbbcf6cef9e2" style="animation-delay: 200ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(206, 249, 226);"><a href="https://colorhunt.co/palette/139632"></a><span onclick='copy("cef9e2", this)'>#cef9e2</span></div>
+<div class="place c3" style="background-color: rgb(203, 188, 246);"><a href="https://colorhunt.co/palette/139632"></a><span onclick='copy("cbbcf6", this)'>#cbbcf6</span></div>
+<div class="place c2" style="background-color: rgb(160, 110, 225);"><a href="https://colorhunt.co/palette/139632"></a><span onclick='copy("a06ee1", this)'>#a06ee1</span></div>
+<div class="place c1" style="background-color: rgb(66, 27, 155);"><a href="https://colorhunt.co/palette/139632"></a><span onclick='copy("421b9b", this)'>#421b9b</span></div>
+</div>
+<div class="like button" onclick='like(139632, "421b9ba06ee1cbbcf6cef9e2")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>229</span>
+</div>
+<span class="date">4 days</span>
+</div><div class="item block shadow" data-order="5" data-id="141100" data-code="022c43053f5e115173ffd700" style="animation-delay: 250ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(255, 215, 0);"><a href="https://colorhunt.co/palette/141100"></a><span onclick='copy("ffd700", this)'>#ffd700</span></div>
+<div class="place c3" style="background-color: rgb(17, 81, 115);"><a href="https://colorhunt.co/palette/141100"></a><span onclick='copy("115173", this)'>#115173</span></div>
+<div class="place c2" style="background-color: rgb(5, 63, 94);"><a href="https://colorhunt.co/palette/141100"></a><span onclick='copy("053f5e", this)'>#053f5e</span></div>
+<div class="place c1" style="background-color: rgb(2, 44, 67);"><a href="https://colorhunt.co/palette/141100"></a><span onclick='copy("022c43", this)'>#022c43</span></div>
+</div>
+<div class="like button" onclick='like(141100, "022c43053f5e115173ffd700")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>272</span>
+</div>
+<span class="date">5 days</span>
+</div><div class="item block shadow" data-order="6" data-id="140495" data-code="faf562f36a7bb824a4aaaaaa" style="animation-delay: 300ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(170, 170, 170);"><a href="https://colorhunt.co/palette/140495"></a><span onclick='copy("aaaaaa", this)'>#aaaaaa</span></div>
+<div class="place c3" style="background-color: rgb(184, 36, 164);"><a href="https://colorhunt.co/palette/140495"></a><span onclick='copy("b824a4", this)'>#b824a4</span></div>
+<div class="place c2" style="background-color: rgb(243, 106, 123);"><a href="https://colorhunt.co/palette/140495"></a><span onclick='copy("f36a7b", this)'>#f36a7b</span></div>
+<div class="place c1" style="background-color: rgb(250, 245, 98);"><a href="https://colorhunt.co/palette/140495"></a><span onclick='copy("faf562", this)'>#faf562</span></div>
+</div>
+<div class="like button" onclick='like(140495, "faf562f36a7bb824a4aaaaaa")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>172</span>
+</div>
+<span class="date">6 days</span>
+</div><div class="item block shadow" data-order="7" data-id="140172" data-code="352961774181e6b2c6f6e5e5" style="animation-delay: 350ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(246, 229, 229);"><a href="https://colorhunt.co/palette/140172"></a><span onclick='copy("f6e5e5", this)'>#f6e5e5</span></div>
+<div class="place c3" style="background-color: rgb(230, 178, 198);"><a href="https://colorhunt.co/palette/140172"></a><span onclick='copy("e6b2c6", this)'>#e6b2c6</span></div>
+<div class="place c2" style="background-color: rgb(119, 65, 129);"><a href="https://colorhunt.co/palette/140172"></a><span onclick='copy("774181", this)'>#774181</span></div>
+<div class="place c1" style="background-color: rgb(53, 41, 97);"><a href="https://colorhunt.co/palette/140172"></a><span onclick='copy("352961", this)'>#352961</span></div>
+</div>
+<div class="like button" onclick='like(140172, "352961774181e6b2c6f6e5e5")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>291</span>
+</div>
+<span class="date">1 week</span>
+</div><div class="item block shadow" data-order="8" data-id="140155" data-code="f8f1f1d2c8c8a3816a0a065d" style="animation-delay: 400ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(10, 6, 93);"><a href="https://colorhunt.co/palette/140155"></a><span onclick='copy("0a065d", this)'>#0a065d</span></div>
+<div class="place c3" style="background-color: rgb(163, 129, 106);"><a href="https://colorhunt.co/palette/140155"></a><span onclick='copy("a3816a", this)'>#a3816a</span></div>
+<div class="place c2" style="background-color: rgb(210, 200, 200);"><a href="https://colorhunt.co/palette/140155"></a><span onclick='copy("d2c8c8", this)'>#d2c8c8</span></div>
+<div class="place c1" style="background-color: rgb(248, 241, 241);"><a href="https://colorhunt.co/palette/140155"></a><span onclick='copy("f8f1f1", this)'>#f8f1f1</span></div>
+</div>
+<div class="like button" onclick='like(140155, "f8f1f1d2c8c8a3816a0a065d")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>237</span>
+</div>
+<span class="date">1 week</span>
+</div><div class="item block shadow" data-order="9" data-id="140154" data-code="1b1919616f39a7d129f8eeb4" style="animation-delay: 450ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(248, 238, 180);"><a href="https://colorhunt.co/palette/140154"></a><span onclick='copy("f8eeb4", this)'>#f8eeb4</span></div>
+<div class="place c3" style="background-color: rgb(167, 209, 41);"><a href="https://colorhunt.co/palette/140154"></a><span onclick='copy("a7d129", this)'>#a7d129</span></div>
+<div class="place c2" style="background-color: rgb(97, 111, 57);"><a href="https://colorhunt.co/palette/140154"></a><span onclick='copy("616f39", this)'>#616f39</span></div>
+<div class="place c1" style="background-color: rgb(27, 25, 25);"><a href="https://colorhunt.co/palette/140154"></a><span onclick='copy("1b1919", this)'>#1b1919</span></div>
+</div>
+<div class="like button" onclick='like(140154, "1b1919616f39a7d129f8eeb4")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>246</span>
+</div>
+<span class="date">1 week</span>
+</div><div class="item block shadow" data-order="10" data-id="140700" data-code="ffe6ebdefcfccbf1f5a6e3e9" style="animation-delay: 500ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(166, 227, 233);"><a href="https://colorhunt.co/palette/140700"></a><span onclick='copy("a6e3e9", this)'>#a6e3e9</span></div>
+<div class="place c3" style="background-color: rgb(203, 241, 245);"><a href="https://colorhunt.co/palette/140700"></a><span onclick='copy("cbf1f5", this)'>#cbf1f5</span></div>
+<div class="place c2" style="background-color: rgb(222, 252, 252);"><a href="https://colorhunt.co/palette/140700"></a><span onclick='copy("defcfc", this)'>#defcfc</span></div>
+<div class="place c1" style="background-color: rgb(255, 230, 235);"><a href="https://colorhunt.co/palette/140700"></a><span onclick='copy("ffe6eb", this)'>#ffe6eb</span></div>
+</div>
+<div class="like button" onclick='like(140700, "ffe6ebdefcfccbf1f5a6e3e9")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>411</span>
+</div>
+<span class="date">1 week</span>
+</div><div class="item block shadow" data-order="11" data-id="139667" data-code="070d591f3c885893d4f7b633" style="animation-delay: 550ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(247, 182, 51);"><a href="https://colorhunt.co/palette/139667"></a><span onclick='copy("f7b633", this)'>#f7b633</span></div>
+<div class="place c3" style="background-color: rgb(88, 147, 212);"><a href="https://colorhunt.co/palette/139667"></a><span onclick='copy("5893d4", this)'>#5893d4</span></div>
+<div class="place c2" style="background-color: rgb(31, 60, 136);"><a href="https://colorhunt.co/palette/139667"></a><span onclick='copy("1f3c88", this)'>#1f3c88</span></div>
+<div class="place c1" style="background-color: rgb(7, 13, 89);"><a href="https://colorhunt.co/palette/139667"></a><span onclick='copy("070d59", this)'>#070d59</span></div>
+</div>
+<div class="like button" onclick='like(139667, "070d591f3c885893d4f7b633")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>320</span>
+</div>
+<span class="date">1 week</span>
+</div><div class="item block shadow" data-order="12" data-id="139670" data-code="f857b5f781bcfdffdcc5ecbe" style="animation-delay: 600ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(197, 236, 190);"><a href="https://colorhunt.co/palette/139670"></a><span onclick='copy("c5ecbe", this)'>#c5ecbe</span></div>
+<div class="place c3" style="background-color: rgb(253, 255, 220);"><a href="https://colorhunt.co/palette/139670"></a><span onclick='copy("fdffdc", this)'>#fdffdc</span></div>
+<div class="place c2" style="background-color: rgb(247, 129, 188);"><a href="https://colorhunt.co/palette/139670"></a><span onclick='copy("f781bc", this)'>#f781bc</span></div>
+<div class="place c1" style="background-color: rgb(248, 87, 181);"><a href="https://colorhunt.co/palette/139670"></a><span onclick='copy("f857b5", this)'>#f857b5</span></div>
+</div>
+<div class="like button" onclick='like(139670, "f857b5f781bcfdffdcc5ecbe")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>313</span>
+</div>
+<span class="date">1 week</span>
+</div><div class="item block shadow" data-order="13" data-id="139970" data-code="6f07654c0045bd512fffb228" style="animation-delay: 650ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(255, 178, 40);"><a href="https://colorhunt.co/palette/139970"></a><span onclick='copy("ffb228", this)'>#ffb228</span></div>
+<div class="place c3" style="background-color: rgb(189, 81, 47);"><a href="https://colorhunt.co/palette/139970"></a><span onclick='copy("bd512f", this)'>#bd512f</span></div>
+<div class="place c2" style="background-color: rgb(76, 0, 69);"><a href="https://colorhunt.co/palette/139970"></a><span onclick='copy("4c0045", this)'>#4c0045</span></div>
+<div class="place c1" style="background-color: rgb(111, 7, 101);"><a href="https://colorhunt.co/palette/139970"></a><span onclick='copy("6f0765", this)'>#6f0765</span></div>
+</div>
+<div class="like button" onclick='like(139970, "6f07654c0045bd512fffb228")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>292</span>
+</div>
+<span class="date">1 week</span>
+</div><div class="item block shadow" data-order="14" data-id="140057" data-code="eeeeeeacc6aa71a0a577628c" style="animation-delay: 700ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(119, 98, 140);"><a href="https://colorhunt.co/palette/140057"></a><span onclick='copy("77628c", this)'>#77628c</span></div>
+<div class="place c3" style="background-color: rgb(113, 160, 165);"><a href="https://colorhunt.co/palette/140057"></a><span onclick='copy("71a0a5", this)'>#71a0a5</span></div>
+<div class="place c2" style="background-color: rgb(172, 198, 170);"><a href="https://colorhunt.co/palette/140057"></a><span onclick='copy("acc6aa", this)'>#acc6aa</span></div>
+<div class="place c1" style="background-color: rgb(238, 238, 238);"><a href="https://colorhunt.co/palette/140057"></a><span onclick='copy("eeeeee", this)'>#eeeeee</span></div>
+</div>
+<div class="like button" onclick='like(140057, "eeeeeeacc6aa71a0a577628c")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>327</span>
+</div>
+<span class="date">2 weeks</span>
+</div><div class="item block shadow" data-order="15" data-id="139633" data-code="5d3a3a905858b5e0baf7ffbd" style="animation-delay: 750ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(247, 255, 189);"><a href="https://colorhunt.co/palette/139633"></a><span onclick='copy("f7ffbd", this)'>#f7ffbd</span></div>
+<div class="place c3" style="background-color: rgb(181, 224, 186);"><a href="https://colorhunt.co/palette/139633"></a><span onclick='copy("b5e0ba", this)'>#b5e0ba</span></div>
+<div class="place c2" style="background-color: rgb(144, 88, 88);"><a href="https://colorhunt.co/palette/139633"></a><span onclick='copy("905858", this)'>#905858</span></div>
+<div class="place c1" style="background-color: rgb(93, 58, 58);"><a href="https://colorhunt.co/palette/139633"></a><span onclick='copy("5d3a3a", this)'>#5d3a3a</span></div>
+</div>
+<div class="like button" onclick='like(139633, "5d3a3a905858b5e0baf7ffbd")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>281</span>
+</div>
+<span class="date">2 weeks</span>
+</div><div class="item block shadow" data-order="16" data-id="139458" data-code="99235cdf4d19a43737572121" style="animation-delay: 800ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(87, 33, 33);"><a href="https://colorhunt.co/palette/139458"></a><span onclick='copy("572121", this)'>#572121</span></div>
+<div class="place c3" style="background-color: rgb(164, 55, 55);"><a href="https://colorhunt.co/palette/139458"></a><span onclick='copy("a43737", this)'>#a43737</span></div>
+<div class="place c2" style="background-color: rgb(223, 77, 25);"><a href="https://colorhunt.co/palette/139458"></a><span onclick='copy("df4d19", this)'>#df4d19</span></div>
+<div class="place c1" style="background-color: rgb(153, 35, 92);"><a href="https://colorhunt.co/palette/139458"></a><span onclick='copy("99235c", this)'>#99235c</span></div>
+</div>
+<div class="like button" onclick='like(139458, "99235cdf4d19a43737572121")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>203</span>
+</div>
+<span class="date">2 weeks</span>
+</div><div class="item block shadow" data-order="17" data-id="139521" data-code="b4e9e232dbc6309286ebefd0" style="animation-delay: 850ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(235, 239, 208);"><a href="https://colorhunt.co/palette/139521"></a><span onclick='copy("ebefd0", this)'>#ebefd0</span></div>
+<div class="place c3" style="background-color: rgb(48, 146, 134);"><a href="https://colorhunt.co/palette/139521"></a><span onclick='copy("309286", this)'>#309286</span></div>
+<div class="place c2" style="background-color: rgb(50, 219, 198);"><a href="https://colorhunt.co/palette/139521"></a><span onclick='copy("32dbc6", this)'>#32dbc6</span></div>
+<div class="place c1" style="background-color: rgb(180, 233, 226);"><a href="https://colorhunt.co/palette/139521"></a><span onclick='copy("b4e9e2", this)'>#b4e9e2</span></div>
+</div>
+<div class="like button" onclick='like(139521, "b4e9e232dbc6309286ebefd0")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>416</span>
+</div>
+<span class="date">2 weeks</span>
+</div><div class="item block shadow" data-order="18" data-id="139409" data-code="35477d6c5b7bc06c84f67280" style="animation-delay: 900ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(246, 114, 128);"><a href="https://colorhunt.co/palette/139409"></a><span onclick='copy("f67280", this)'>#f67280</span></div>
+<div class="place c3" style="background-color: rgb(192, 108, 132);"><a href="https://colorhunt.co/palette/139409"></a><span onclick='copy("c06c84", this)'>#c06c84</span></div>
+<div class="place c2" style="background-color: rgb(108, 91, 123);"><a href="https://colorhunt.co/palette/139409"></a><span onclick='copy("6c5b7b", this)'>#6c5b7b</span></div>
+<div class="place c1" style="background-color: rgb(53, 71, 125);"><a href="https://colorhunt.co/palette/139409"></a><span onclick='copy("35477d", this)'>#35477d</span></div>
+</div>
+<div class="like button" onclick='like(139409, "35477d6c5b7bc06c84f67280")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>492</span>
+</div>
+<span class="date">2 weeks</span>
+</div><div class="item block shadow" data-order="19" data-id="139362" data-code="a1dd70fdfff0e8ecd6a23131" style="animation-delay: 950ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(162, 49, 49);"><a href="https://colorhunt.co/palette/139362"></a><span onclick='copy("a23131", this)'>#a23131</span></div>
+<div class="place c3" style="background-color: rgb(232, 236, 214);"><a href="https://colorhunt.co/palette/139362"></a><span onclick='copy("e8ecd6", this)'>#e8ecd6</span></div>
+<div class="place c2" style="background-color: rgb(253, 255, 240);"><a href="https://colorhunt.co/palette/139362"></a><span onclick='copy("fdfff0", this)'>#fdfff0</span></div>
+<div class="place c1" style="background-color: rgb(161, 221, 112);"><a href="https://colorhunt.co/palette/139362"></a><span onclick='copy("a1dd70", this)'>#a1dd70</span></div>
+</div>
+<div class="like button" onclick='like(139362, "a1dd70fdfff0e8ecd6a23131")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>293</span>
+</div>
+<span class="date">2 weeks</span>
+</div><div class="item block shadow" data-order="20" data-id="139296" data-code="00a8b5774898de4383f3ae4b" style="animation-delay: 1000ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(243, 174, 75);"><a href="https://colorhunt.co/palette/139296"></a><span onclick='copy("f3ae4b", this)'>#f3ae4b</span></div>
+<div class="place c3" style="background-color: rgb(222, 67, 131);"><a href="https://colorhunt.co/palette/139296"></a><span onclick='copy("de4383", this)'>#de4383</span></div>
+<div class="place c2" style="background-color: rgb(119, 72, 152);"><a href="https://colorhunt.co/palette/139296"></a><span onclick='copy("774898", this)'>#774898</span></div>
+<div class="place c1" style="background-color: rgb(0, 168, 181);"><a href="https://colorhunt.co/palette/139296"></a><span onclick='copy("00a8b5", this)'>#00a8b5</span></div>
+</div>
+<div class="like button" onclick='like(139296, "00a8b5774898de4383f3ae4b")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>385</span>
+</div>
+<span class="date">2 weeks</span>
+</div><div class="item block shadow" data-order="21" data-id="139297" data-code="6d3580cc4165e4734fffe26f" style="animation-delay: 1050ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(255, 226, 111);"><a href="https://colorhunt.co/palette/139297"></a><span onclick='copy("ffe26f", this)'>#ffe26f</span></div>
+<div class="place c3" style="background-color: rgb(228, 115, 79);"><a href="https://colorhunt.co/palette/139297"></a><span onclick='copy("e4734f", this)'>#e4734f</span></div>
+<div class="place c2" style="background-color: rgb(204, 65, 101);"><a href="https://colorhunt.co/palette/139297"></a><span onclick='copy("cc4165", this)'>#cc4165</span></div>
+<div class="place c1" style="background-color: rgb(109, 53, 128);"><a href="https://colorhunt.co/palette/139297"></a><span onclick='copy("6d3580", this)'>#6d3580</span></div>
+</div>
+<div class="like button" onclick='like(139297, "6d3580cc4165e4734fffe26f")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>382</span>
+</div>
+<span class="date">3 weeks</span>
+</div><div class="item block shadow" data-order="22" data-id="139181" data-code="01010169779bacdbdff0ece2" style="animation-delay: 1100ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(240, 236, 226);"><a href="https://colorhunt.co/palette/139181"></a><span onclick='copy("f0ece2", this)'>#f0ece2</span></div>
+<div class="place c3" style="background-color: rgb(172, 219, 223);"><a href="https://colorhunt.co/palette/139181"></a><span onclick='copy("acdbdf", this)'>#acdbdf</span></div>
+<div class="place c2" style="background-color: rgb(105, 119, 155);"><a href="https://colorhunt.co/palette/139181"></a><span onclick='copy("69779b", this)'>#69779b</span></div>
+<div class="place c1" style="background-color: rgb(1, 1, 1);"><a href="https://colorhunt.co/palette/139181"></a><span onclick='copy("010101", this)'>#010101</span></div>
+</div>
+<div class="like button" onclick='like(139181, "01010169779bacdbdff0ece2")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>438</span>
+</div>
+<span class="date">3 weeks</span>
+</div><div class="item block shadow" data-order="23" data-id="139410" data-code="51eaeafffde1ff9d76fb3569" style="animation-delay: 1150ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(251, 53, 105);"><a href="https://colorhunt.co/palette/139410"></a><span onclick='copy("fb3569", this)'>#fb3569</span></div>
+<div class="place c3" style="background-color: rgb(255, 157, 118);"><a href="https://colorhunt.co/palette/139410"></a><span onclick='copy("ff9d76", this)'>#ff9d76</span></div>
+<div class="place c2" style="background-color: rgb(255, 253, 225);"><a href="https://colorhunt.co/palette/139410"></a><span onclick='copy("fffde1", this)'>#fffde1</span></div>
+<div class="place c1" style="background-color: rgb(81, 234, 234);"><a href="https://colorhunt.co/palette/139410"></a><span onclick='copy("51eaea", this)'>#51eaea</span></div>
+</div>
+<div class="like button" onclick='like(139410, "51eaeafffde1ff9d76fb3569")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>443</span>
+</div>
+<span class="date">3 weeks</span>
+</div><div class="item block shadow" data-order="24" data-id="139257" data-code="f68787f8a978f1eb9aa4f6a5" style="animation-delay: 1200ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(164, 246, 165);"><a href="https://colorhunt.co/palette/139257"></a><span onclick='copy("a4f6a5", this)'>#a4f6a5</span></div>
+<div class="place c3" style="background-color: rgb(241, 235, 154);"><a href="https://colorhunt.co/palette/139257"></a><span onclick='copy("f1eb9a", this)'>#f1eb9a</span></div>
+<div class="place c2" style="background-color: rgb(248, 169, 120);"><a href="https://colorhunt.co/palette/139257"></a><span onclick='copy("f8a978", this)'>#f8a978</span></div>
+<div class="place c1" style="background-color: rgb(246, 135, 135);"><a href="https://colorhunt.co/palette/139257"></a><span onclick='copy("f68787", this)'>#f68787</span></div>
+</div>
+<div class="like button" onclick='like(139257, "f68787f8a978f1eb9aa4f6a5")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>419</span>
+</div>
+<span class="date">3 weeks</span>
+</div><div class="item block shadow" data-order="25" data-id="139088" data-code="d9d9d9e88a1acf3030141414" style="animation-delay: 1250ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(20, 20, 20);"><a href="https://colorhunt.co/palette/139088"></a><span onclick='copy("141414", this)'>#141414</span></div>
+<div class="place c3" style="background-color: rgb(207, 48, 48);"><a href="https://colorhunt.co/palette/139088"></a><span onclick='copy("cf3030", this)'>#cf3030</span></div>
+<div class="place c2" style="background-color: rgb(232, 138, 26);"><a href="https://colorhunt.co/palette/139088"></a><span onclick='copy("e88a1a", this)'>#e88a1a</span></div>
+<div class="place c1" style="background-color: rgb(217, 217, 217);"><a href="https://colorhunt.co/palette/139088"></a><span onclick='copy("d9d9d9", this)'>#d9d9d9</span></div>
+</div>
+<div class="like button" onclick='like(139088, "d9d9d9e88a1acf3030141414")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>332</span>
+</div>
+<span class="date">3 weeks</span>
+</div><div class="item block shadow" data-order="26" data-id="139087" data-code="10316b0b8457eac100dee1ec" style="animation-delay: 1300ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(222, 225, 236);"><a href="https://colorhunt.co/palette/139087"></a><span onclick='copy("dee1ec", this)'>#dee1ec</span></div>
+<div class="place c3" style="background-color: rgb(234, 193, 0);"><a href="https://colorhunt.co/palette/139087"></a><span onclick='copy("eac100", this)'>#eac100</span></div>
+<div class="place c2" style="background-color: rgb(11, 132, 87);"><a href="https://colorhunt.co/palette/139087"></a><span onclick='copy("0b8457", this)'>#0b8457</span></div>
+<div class="place c1" style="background-color: rgb(16, 49, 107);"><a href="https://colorhunt.co/palette/139087"></a><span onclick='copy("10316b", this)'>#10316b</span></div>
+</div>
+<div class="like button" onclick='like(139087, "10316b0b8457eac100dee1ec")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>285</span>
+</div>
+<span class="date">3 weeks</span>
+</div><div class="item block shadow" data-order="27" data-id="138719" data-code="5e0606831212970690ffa400" style="animation-delay: 1350ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(255, 164, 0);"><a href="https://colorhunt.co/palette/138719"></a><span onclick='copy("ffa400", this)'>#ffa400</span></div>
+<div class="place c3" style="background-color: rgb(151, 6, 144);"><a href="https://colorhunt.co/palette/138719"></a><span onclick='copy("970690", this)'>#970690</span></div>
+<div class="place c2" style="background-color: rgb(131, 18, 18);"><a href="https://colorhunt.co/palette/138719"></a><span onclick='copy("831212", this)'>#831212</span></div>
+<div class="place c1" style="background-color: rgb(94, 6, 6);"><a href="https://colorhunt.co/palette/138719"></a><span onclick='copy("5e0606", this)'>#5e0606</span></div>
+</div>
+<div class="like button" onclick='like(138719, "5e0606831212970690ffa400")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>196</span>
+</div>
+<span class="date">3 weeks</span>
+</div><div class="item block shadow" data-order="28" data-id="139015" data-code="ffceceffc1c8ffe3b08ed6ff" style="animation-delay: 1400ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(142, 214, 255);"><a href="https://colorhunt.co/palette/139015"></a><span onclick='copy("8ed6ff", this)'>#8ed6ff</span></div>
+<div class="place c3" style="background-color: rgb(255, 227, 176);"><a href="https://colorhunt.co/palette/139015"></a><span onclick='copy("ffe3b0", this)'>#ffe3b0</span></div>
+<div class="place c2" style="background-color: rgb(255, 193, 200);"><a href="https://colorhunt.co/palette/139015"></a><span onclick='copy("ffc1c8", this)'>#ffc1c8</span></div>
+<div class="place c1" style="background-color: rgb(255, 206, 206);"><a href="https://colorhunt.co/palette/139015"></a><span onclick='copy("ffcece", this)'>#ffcece</span></div>
+</div>
+<div class="like button" onclick='like(139015, "ffceceffc1c8ffe3b08ed6ff")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>544</span>
+</div>
+<span class="date">4 weeks</span>
+</div><div class="item block shadow" data-order="29" data-id="138663" data-code="2331424f9da6facf5aff5959" style="animation-delay: 1450ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(255, 89, 89);"><a href="https://colorhunt.co/palette/138663"></a><span onclick='copy("ff5959", this)'>#ff5959</span></div>
+<div class="place c3" style="background-color: rgb(250, 207, 90);"><a href="https://colorhunt.co/palette/138663"></a><span onclick='copy("facf5a", this)'>#facf5a</span></div>
+<div class="place c2" style="background-color: rgb(79, 157, 166);"><a href="https://colorhunt.co/palette/138663"></a><span onclick='copy("4f9da6", this)'>#4f9da6</span></div>
+<div class="place c1" style="background-color: rgb(35, 49, 66);"><a href="https://colorhunt.co/palette/138663"></a><span onclick='copy("233142", this)'>#233142</span></div>
+</div>
+<div class="like button" onclick='like(138663, "2331424f9da6facf5aff5959")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>539</span>
+</div>
+<span class="date">4 weeks</span>
+</div><div class="item block shadow" data-order="30" data-id="138966" data-code="f3f8ffdeecffc6cfffe8d3ff" style="animation-delay: 1500ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(232, 211, 255);"><a href="https://colorhunt.co/palette/138966"></a><span onclick='copy("e8d3ff", this)'>#e8d3ff</span></div>
+<div class="place c3" style="background-color: rgb(198, 207, 255);"><a href="https://colorhunt.co/palette/138966"></a><span onclick='copy("c6cfff", this)'>#c6cfff</span></div>
+<div class="place c2" style="background-color: rgb(222, 236, 255);"><a href="https://colorhunt.co/palette/138966"></a><span onclick='copy("deecff", this)'>#deecff</span></div>
+<div class="place c1" style="background-color: rgb(243, 248, 255);"><a href="https://colorhunt.co/palette/138966"></a><span onclick='copy("f3f8ff", this)'>#f3f8ff</span></div>
+</div>
+<div class="like button" onclick='like(138966, "f3f8ffdeecffc6cfffe8d3ff")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>602</span>
+</div>
+<span class="date">1 month</span>
+</div><div class="item block shadow" data-order="31" data-id="138572" data-code="ffa9009d822101444101252a" style="animation-delay: 1550ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(1, 37, 42);"><a href="https://colorhunt.co/palette/138572"></a><span onclick='copy("01252a", this)'>#01252a</span></div>
+<div class="place c3" style="background-color: rgb(1, 68, 65);"><a href="https://colorhunt.co/palette/138572"></a><span onclick='copy("014441", this)'>#014441</span></div>
+<div class="place c2" style="background-color: rgb(157, 130, 33);"><a href="https://colorhunt.co/palette/138572"></a><span onclick='copy("9d8221", this)'>#9d8221</span></div>
+<div class="place c1" style="background-color: rgb(255, 169, 0);"><a href="https://colorhunt.co/palette/138572"></a><span onclick='copy("ffa900", this)'>#ffa900</span></div>
+</div>
+<div class="like button" onclick='like(138572, "ffa9009d822101444101252a")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>378</span>
+</div>
+<span class="date">1 month</span>
+</div><div class="item block shadow" data-order="32" data-id="138947" data-code="df0e62fac70b12768121174a" style="animation-delay: 1600ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(33, 23, 74);"><a href="https://colorhunt.co/palette/138947"></a><span onclick='copy("21174a", this)'>#21174a</span></div>
+<div class="place c3" style="background-color: rgb(18, 118, 129);"><a href="https://colorhunt.co/palette/138947"></a><span onclick='copy("127681", this)'>#127681</span></div>
+<div class="place c2" style="background-color: rgb(250, 199, 11);"><a href="https://colorhunt.co/palette/138947"></a><span onclick='copy("fac70b", this)'>#fac70b</span></div>
+<div class="place c1" style="background-color: rgb(223, 14, 98);"><a href="https://colorhunt.co/palette/138947"></a><span onclick='copy("df0e62", this)'>#df0e62</span></div>
+</div>
+<div class="like button" onclick='like(138947, "df0e62fac70b12768121174a")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>402</span>
+</div>
+<span class="date">1 month</span>
+</div><div class="item block shadow" data-order="33" data-id="138573" data-code="e8e2dbfab95bf168211a3263" style="animation-delay: 1650ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(26, 50, 99);"><a href="https://colorhunt.co/palette/138573"></a><span onclick='copy("1a3263", this)'>#1a3263</span></div>
+<div class="place c3" style="background-color: rgb(241, 104, 33);"><a href="https://colorhunt.co/palette/138573"></a><span onclick='copy("f16821", this)'>#f16821</span></div>
+<div class="place c2" style="background-color: rgb(250, 185, 91);"><a href="https://colorhunt.co/palette/138573"></a><span onclick='copy("fab95b", this)'>#fab95b</span></div>
+<div class="place c1" style="background-color: rgb(232, 226, 219);"><a href="https://colorhunt.co/palette/138573"></a><span onclick='copy("e8e2db", this)'>#e8e2db</span></div>
+</div>
+<div class="like button" onclick='like(138573, "e8e2dbfab95bf168211a3263")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>434</span>
+</div>
+<span class="date">1 month</span>
+</div><div class="item block shadow" data-order="34" data-id="138358" data-code="1c819e005542ffbe00dfdfdf" style="animation-delay: 1700ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(223, 223, 223);"><a href="https://colorhunt.co/palette/138358"></a><span onclick='copy("dfdfdf", this)'>#dfdfdf</span></div>
+<div class="place c3" style="background-color: rgb(255, 190, 0);"><a href="https://colorhunt.co/palette/138358"></a><span onclick='copy("ffbe00", this)'>#ffbe00</span></div>
+<div class="place c2" style="background-color: rgb(0, 85, 66);"><a href="https://colorhunt.co/palette/138358"></a><span onclick='copy("005542", this)'>#005542</span></div>
+<div class="place c1" style="background-color: rgb(28, 129, 158);"><a href="https://colorhunt.co/palette/138358"></a><span onclick='copy("1c819e", this)'>#1c819e</span></div>
+</div>
+<div class="like button" onclick='like(138358, "1c819e005542ffbe00dfdfdf")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>287</span>
+</div>
+<span class="date">1 month</span>
+</div><div class="item block shadow" data-order="35" data-id="138363" data-code="ffd3def6b8d15dc0a63f8f8d" style="animation-delay: 1750ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(63, 143, 141);"><a href="https://colorhunt.co/palette/138363"></a><span onclick='copy("3f8f8d", this)'>#3f8f8d</span></div>
+<div class="place c3" style="background-color: rgb(93, 192, 166);"><a href="https://colorhunt.co/palette/138363"></a><span onclick='copy("5dc0a6", this)'>#5dc0a6</span></div>
+<div class="place c2" style="background-color: rgb(246, 184, 209);"><a href="https://colorhunt.co/palette/138363"></a><span onclick='copy("f6b8d1", this)'>#f6b8d1</span></div>
+<div class="place c1" style="background-color: rgb(255, 211, 222);"><a href="https://colorhunt.co/palette/138363"></a><span onclick='copy("ffd3de", this)'>#ffd3de</span></div>
+</div>
+<div class="like button" onclick='like(138363, "ffd3def6b8d15dc0a63f8f8d")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>543</span>
+</div>
+<span class="date">1 month</span>
+</div><div class="item block shadow" data-order="36" data-id="138365" data-code="6927ff837dffbf81ffffd581" style="animation-delay: 1800ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(255, 213, 129);"><a href="https://colorhunt.co/palette/138365"></a><span onclick='copy("ffd581", this)'>#ffd581</span></div>
+<div class="place c3" style="background-color: rgb(191, 129, 255);"><a href="https://colorhunt.co/palette/138365"></a><span onclick='copy("bf81ff", this)'>#bf81ff</span></div>
+<div class="place c2" style="background-color: rgb(131, 125, 255);"><a href="https://colorhunt.co/palette/138365"></a><span onclick='copy("837dff", this)'>#837dff</span></div>
+<div class="place c1" style="background-color: rgb(105, 39, 255);"><a href="https://colorhunt.co/palette/138365"></a><span onclick='copy("6927ff", this)'>#6927ff</span></div>
+</div>
+<div class="like button" onclick='like(138365, "6927ff837dffbf81ffffd581")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>463</span>
+</div>
+<span class="date">1 month</span>
+</div><div class="item block shadow" data-order="37" data-id="138308" data-code="f777540187900a516d2b2726" style="animation-delay: 1850ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(43, 39, 38);"><a href="https://colorhunt.co/palette/138308"></a><span onclick='copy("2b2726", this)'>#2b2726</span></div>
+<div class="place c3" style="background-color: rgb(10, 81, 109);"><a href="https://colorhunt.co/palette/138308"></a><span onclick='copy("0a516d", this)'>#0a516d</span></div>
+<div class="place c2" style="background-color: rgb(1, 135, 144);"><a href="https://colorhunt.co/palette/138308"></a><span onclick='copy("018790", this)'>#018790</span></div>
+<div class="place c1" style="background-color: rgb(247, 119, 84);"><a href="https://colorhunt.co/palette/138308"></a><span onclick='copy("f77754", this)'>#f77754</span></div>
+</div>
+<div class="like button" onclick='like(138308, "f777540187900a516d2b2726")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>519</span>
+</div>
+<span class="date">1 month</span>
+</div><div class="item block shadow" data-order="38" data-id="138147" data-code="3c415e738598dfe2e21cb3c8" style="animation-delay: 1900ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(28, 179, 200);"><a href="https://colorhunt.co/palette/138147"></a><span onclick='copy("1cb3c8", this)'>#1cb3c8</span></div>
+<div class="place c3" style="background-color: rgb(223, 226, 226);"><a href="https://colorhunt.co/palette/138147"></a><span onclick='copy("dfe2e2", this)'>#dfe2e2</span></div>
+<div class="place c2" style="background-color: rgb(115, 133, 152);"><a href="https://colorhunt.co/palette/138147"></a><span onclick='copy("738598", this)'>#738598</span></div>
+<div class="place c1" style="background-color: rgb(60, 65, 94);"><a href="https://colorhunt.co/palette/138147"></a><span onclick='copy("3c415e", this)'>#3c415e</span></div>
+</div>
+<div class="like button" onclick='like(138147, "3c415e738598dfe2e21cb3c8")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>550</span>
+</div>
+<span class="date">1 month</span>
+</div><div class="item block shadow" data-order="39" data-id="138409" data-code="f9989ffccb8ffaf096c5f8c8" style="animation-delay: 1950ms;">
+<div class="palette">
+<div class="place c4" style="background-color: rgb(197, 248, 200);"><a href="https://colorhunt.co/palette/138409"></a><span onclick='copy("c5f8c8", this)'>#c5f8c8</span></div>
+<div class="place c3" style="background-color: rgb(250, 240, 150);"><a href="https://colorhunt.co/palette/138409"></a><span onclick='copy("faf096", this)'>#faf096</span></div>
+<div class="place c2" style="background-color: rgb(252, 203, 143);"><a href="https://colorhunt.co/palette/138409"></a><span onclick='copy("fccb8f", this)'>#fccb8f</span></div>
+<div class="place c1" style="background-color: rgb(249, 152, 159);"><a href="https://colorhunt.co/palette/138409"></a><span onclick='copy("f9989f", this)'>#f9989f</span></div>
+</div>
+<div class="like button" onclick='like(138409, "f9989ffccb8ffaf096c5f8c8")'>
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span>643</span>
+</div>
+<span class="date">1 month</span>
+</div></div>
+<div id="side">
+<div id="search">
+<input type="text" placeholder="Search Palettes">
+<img alt="Color Hunt Palettes Search Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-search.png">
+<div id="search_menu" class="shadow block dropdown">
+<a class="button red" href="https://colorhunt.co/palettes/red">Red</a>
+<a class="button orange" href="https://colorhunt.co/palettes/orange">Orange</a>
+<a class="button brown" href="https://colorhunt.co/palettes/brown">Brown</a>
+<a class="button yellow" href="https://colorhunt.co/palettes/yellow">Yellow</a>
+<a class="button green" href="https://colorhunt.co/palettes/green">Green</a>
+<a class="button turquoise" href="https://colorhunt.co/palettes/turquoise">Turquoise</a>
+<a class="button blue" href="https://colorhunt.co/palettes/blue">Blue</a>
+<a class="button purple" href="https://colorhunt.co/palettes/purple">Purple</a>
+<a class="button pink" href="https://colorhunt.co/palettes/pink">Pink</a>
+<a class="button grey" href="https://colorhunt.co/palettes/grey">Grey</a>
+<a class="button black" href="https://colorhunt.co/palettes/black">Black</a>
+<a class="button white" href="https://colorhunt.co/palettes/white">White</a>
+<div class="seperator"></div>
+<a class="button theme" href="https://colorhunt.co/palettes/warm">Warm</a>
+<a class="button theme" href="https://colorhunt.co/palettes/cold">Cold</a>
+<a class="button theme" href="https://colorhunt.co/palettes/bright">Bright</a>
+<a class="button theme" href="https://colorhunt.co/palettes/dark">Dark</a>
+<div class="seperator"></div>
+<a class="button theme" href="https://colorhunt.co/palettes/gold">Gold</a>
+<a class="button theme" href="https://colorhunt.co/palettes/neon">Neon</a>
+<a class="button theme" href="https://colorhunt.co/palettes/pastel">Pastel</a>
+<a class="button theme" href="https://colorhunt.co/palettes/skin">Skin</a>
+<a class="button theme" href="https://colorhunt.co/palettes/vintage">Vintage</a>
+<a class="button theme" href="https://colorhunt.co/palettes/retro">Retro</a>
+<a class="button theme" href="https://colorhunt.co/palettes/wedding">Wedding</a>
+<div class="seperator"></div>
+<a class="button theme" href="https://colorhunt.co/palettes/sunset">Sunset</a>
+<a class="button theme" href="https://colorhunt.co/palettes/summer">Summer</a>
+<a class="button theme" href="https://colorhunt.co/palettes/autumn">Autumn</a>
+<a class="button theme" href="https://colorhunt.co/palettes/winter">Winter</a>
+<a class="button theme" href="https://colorhunt.co/palettes/spring">Spring</a>
+<div class="seperator"></div>
+<a class="button theme" href="https://colorhunt.co/palettes/christmas">Christmas</a>
+<a class="button theme" href="https://colorhunt.co/palettes/halloween">Halloween</a>
+</div>
+</div>
+<div id="main">
+<h1>Trendy Color Palettes</h1>
+<h2>This is palette no. 140769 in Color Hunt's schemes collection. A hand-picked palette, free to use for designers and artists.</h2>
+</div>
+<div id="likes" class="section">
+<div class="title">You liked <a href="https://colorhunt.co/likes"><span></span> palettes</a></div>
+<div class="list" style="overflow: hidden;"></div>
+</div>
+<div id="ad" class="section" style="border:0">
+<a onclick="ga('send', 'event', 'wix-banner', 'click');" target="_blank" href="https://www.wix.com/eteamhtml/900_create?utm_source=media_buying&amp;utm_medium=paid_referral&amp;utm_campaign=ma_Colorhunt&amp;experiment_id=220"><img src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/wix-ad.png"></a>
+</div>
+<div id="extension" class="section">
+<p class="title">Get our Chrome extension for color inspiration in every new tab</p>
+<a class="button" target="_blank" rel="noreferrer" href="https://chrome.google.com/webstore/detail/hchlgfaicmddilenlflajnmomalehbom" onclick="ga('send', 'event', 'extension', 'click');"><img alt="Color Hunt Palettes Chrome Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-chrome.png">Add to Chrome</a>
+</div>
+<div id="credit" class="section">
+Made with <img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart-blue.png">
+by <a target="_blank" rel="noreferrer" href="https://galshir.com/?ref=colorhunt_bar">Gal Shir</a>
+</div>
+</div>
+</div>
+<div id="bank" style="display:none">
+<div class="item block shadow">
+<div class="palette">
+<div class="place c4"><a href=""></a><span></span></div>
+<div class="place c3"><a href=""></a><span></span></div>
+<div class="place c2"><a href=""></a><span></span></div>
+<div class="place c1"><a href=""></a><span></span></div>
+</div>
+<div class="like button">
+<img alt="Color Hunt Palettes Heart Icon" src="Color%20Hunt%20-%20Trendy%20Color%20Palettes_files/color-hunt-palettes-icon-heart.png">
+<span></span>
+</div>
+<span class="date"></span>
+</div>
+<div class="remove">✕</div>
+</div>
+<div id="jscode"><script>arr = [{ "id":"140436", "code":"33313b62374e007880fdc57b", "date":"03/09/19", "likes":"38" }, { "id":"140707", "code":"fcd3071c1259ee4266d5daeb", "date":"03/08/19", "likes":"103" }, { "id":"140769", "code":"dbe9b7fdfdf6f4dadab8b2a6", "date":"03/07/19", "likes":"167" }, { "id":"141021", "code":"b7fbfffff6beffe0a3ffa1ac", "date":"03/06/19", "likes":"249" }, { "id":"139632", "code":"421b9ba06ee1cbbcf6cef9e2", "date":"03/05/19", "likes":"229" }, { "id":"141100", "code":"022c43053f5e115173ffd700", "date":"03/04/19", "likes":"272" }, { "id":"140495", "code":"faf562f36a7bb824a4aaaaaa", "date":"03/03/19", "likes":"172" }, { "id":"140172", "code":"352961774181e6b2c6f6e5e5", "date":"03/02/19", "likes":"291" }, { "id":"140155", "code":"f8f1f1d2c8c8a3816a0a065d", "date":"03/01/19", "likes":"237" }, { "id":"140154", "code":"1b1919616f39a7d129f8eeb4", "date":"02/28/19", "likes":"246" }, { "id":"140700", "code":"ffe6ebdefcfccbf1f5a6e3e9", "date":"02/27/19", "likes":"411" }, { "id":"139667", "code":"070d591f3c885893d4f7b633", "date":"02/26/19", "likes":"320" }, { "id":"139670", "code":"f857b5f781bcfdffdcc5ecbe", "date":"02/25/19", "likes":"313" }, { "id":"139970", "code":"6f07654c0045bd512fffb228", "date":"02/24/19", "likes":"292" }, { "id":"140057", "code":"eeeeeeacc6aa71a0a577628c", "date":"02/23/19", "likes":"327" }, { "id":"139633", "code":"5d3a3a905858b5e0baf7ffbd", "date":"02/22/19", "likes":"281" }, { "id":"139458", "code":"99235cdf4d19a43737572121", "date":"02/21/19", "likes":"203" }, { "id":"139521", "code":"b4e9e232dbc6309286ebefd0", "date":"02/20/19", "likes":"416" }, { "id":"139409", "code":"35477d6c5b7bc06c84f67280", "date":"02/19/19", "likes":"492" }, { "id":"139362", "code":"a1dd70fdfff0e8ecd6a23131", "date":"02/18/19", "likes":"293" }, { "id":"139296", "code":"00a8b5774898de4383f3ae4b", "date":"02/17/19", "likes":"385" }, { "id":"139297", "code":"6d3580cc4165e4734fffe26f", "date":"02/16/19", "likes":"382" }, { "id":"139181", "code":"01010169779bacdbdff0ece2", "date":"02/15/19", "likes":"438" }, { "id":"139410", "code":"51eaeafffde1ff9d76fb3569", "date":"02/14/19", "likes":"443" }, { "id":"139257", "code":"f68787f8a978f1eb9aa4f6a5", "date":"02/13/19", "likes":"419" }, { "id":"139088", "code":"d9d9d9e88a1acf3030141414", "date":"02/12/19", "likes":"332" }, { "id":"139087", "code":"10316b0b8457eac100dee1ec", "date":"02/11/19", "likes":"285" }, { "id":"138719", "code":"5e0606831212970690ffa400", "date":"02/10/19", "likes":"196" }, { "id":"139015", "code":"ffceceffc1c8ffe3b08ed6ff", "date":"02/09/19", "likes":"544" }, { "id":"138663", "code":"2331424f9da6facf5aff5959", "date":"02/08/19", "likes":"539" }, { "id":"138966", "code":"f3f8ffdeecffc6cfffe8d3ff", "date":"02/07/19", "likes":"602" }, { "id":"138572", "code":"ffa9009d822101444101252a", "date":"02/06/19", "likes":"378" }, { "id":"138947", "code":"df0e62fac70b12768121174a", "date":"02/05/19", "likes":"402" }, { "id":"138573", "code":"e8e2dbfab95bf168211a3263", "date":"02/04/19", "likes":"434" }, { "id":"138358", "code":"1c819e005542ffbe00dfdfdf", "date":"02/03/19", "likes":"287" }, { "id":"138363", "code":"ffd3def6b8d15dc0a63f8f8d", "date":"02/02/19", "likes":"543" }, { "id":"138365", "code":"6927ff837dffbf81ffffd581", "date":"02/01/19", "likes":"463" }, { "id":"138308", "code":"f777540187900a516d2b2726", "date":"01/31/19", "likes":"519" }, { "id":"138147", "code":"3c415e738598dfe2e21cb3c8", "date":"01/30/19", "likes":"550" }, { "id":"138409", "code":"f9989ffccb8ffaf096c5f8c8", "date":"01/29/19", "likes":"643" }, ];</script></div>
+<script>
+
+var tags = "";
+var sort = "new";
+$('#sort_menu new').addClass("selected");
+
+t = 0;
+step = 0;
+oktoload = "yes";
+
+itemer('0','140769', 'dbe9b7fdfdf6f4dadab8b2a6', '03/07/19', '167');$('.item[data-id=140769]').addClass('focus').find('.palette a').removeAttr('href'); $('body').addClass('single'); focus('Green Pink Bright Pastel Spring Wedding');
+if(navigator.userAgent.toLowerCase().indexOf('firefox') > -1){
+  $('#likes .list').css('overflow','hidden');
+}
+
+$(function() {
+  taker(step,sort,tags);
+  list_likes();
+  select_sort_button(sort);
+  setTimeout(function() { like_first_palette_tip(); }, 1500);
+
+  setTimeout(function() {
+    _native.init("CK7DCK7E", {
+      carbonZoneKey: 'CKYIP27I',
+      targetClass: 'native-js',
+      placement: 'colorhuntco'
+    });
+  }, 10);
+});
+
+</script>
+<script type="text/javascript">
+
+$(function() {
+  current = "palettes";
+  tags = "Green Pink Bright Pastel Spring Wedding";
+  select_menu_button(current);
+});
+
+$('#sort').click(function(e) {
+  e.stopPropagation();
+  if ( $('#sort_menu').is(":visible") ) {
+    $('#sort_menu').hide();
+  } else {
+    $('#sort_menu').show();
+  }
+});
+
+$('#menu').click(function(e) {
+  e.stopPropagation();
+  if ( $('#main_menu').is(":visible") ) {
+    $('#main_menu').hide();
+  } else {
+    $('#main_menu').show();
+  }
+});
+
+$('#search input').focus(function(e) {
+  e.stopPropagation();
+  $('#search_menu').show();
+});
+
+$('#search input').click(function(e) {
+  e.stopPropagation();
+  $('#search_menu').show();
+  $('#search .seperator').show();
+});
+
+$('#search input').keyup(function(e) {
+  $(this).val(titleCase($(this).val()));
+  query = $(this).val();
+  if ( query != "" ) { $('#search .seperator').hide(); } else { $('#search .seperator').show(); }
+  $('#search_menu a').each(function() {
+    tag = $(this).text();
+    if ( tag.substring(0, query.length) != query ) {
+      $(this).hide();
+    } else {
+      $(this).show();
+    }
+  });
+  if (e.keyCode == 13) {
+    if ( /\d/.test(query) == false ) {
+      ga('send', 'event','search_query', query);
+    }
+    $('#search_menu a').each(function() {
+      if ( $(this).text() == query ) {
+        window.location.href = "/palettes/"+query.toLowerCase();
+      }
+    });
+  }
+});
+
+function saveAs(uri, filename) {
+  var link = document.createElement('a');
+  if (typeof link.download === 'string') {
+    link.href = uri;
+    link.download = filename;
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  } else {
+    window.open(uri);
+  }
+}
+
+$(window).click(function() {
+  $('.dropdown:visible').hide();
+});
+
+window.addEventListener('scroll', function scrolling() {
+  if ( current == "palettes" && oktoload == "yes" && $(document).scrollTop() + $(window).height() >= $("body").height()-300 ) {
+    step++;
+    taker(step,sort,tags);
+    oktoload = "no";
+    setTimeout(function(){ oktoload = "yes" }, 500);
+  }
+});
+
+</script>
+
+
+</body></html>
